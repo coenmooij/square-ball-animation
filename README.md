@@ -2,7 +2,7 @@
 
 Simple square ball animation.
 
-##To play:
+## To play:
 
 1. Click the ball.
 2. Enjoy the new color & watch the ball move.
